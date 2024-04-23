@@ -5,6 +5,7 @@
   "main": "bot/index.js",
   "type": "module",
   "scripts": {
+    "run": "node bot/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
